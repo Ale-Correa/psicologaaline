@@ -12,4 +12,4 @@ confortável dentro do site.
 Utilizamos na estrutura do site algumas bibliotecas CSS para implementar tecnologias,
 como o carrosel de imagens ao final da página.
 
-Este projeto conta com mais de60 horas de trabalho para sua finalização.
+Este projeto conta com mais de 60 horas de trabalho para sua finalização.
